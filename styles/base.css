@@ -17,9 +17,17 @@ nav {
     gap: 20px;
     padding: 40px;
     font-size: 1.5em;
+    border-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 5px 5px 5px rgba(0.2,0.2,0.2,0.2);
+    padding-bottom: 15px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
 }
 nav a {
     color:rgb(2, 39, 43);
+    
 }
 header {
     padding: 40px;
@@ -29,11 +37,23 @@ header {
     grid-gap: 1em;
     align-items: center;
     background-color: black;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 5px 5px 5px rgba(0.2,0.2,0.2,0.2);
+    padding-bottom: 15px;
    
 }
 img {
     max-width: 70%;
     margin-left: 20%;
+    padding-bottom: 5px;
+    border: 2px solid white;
+    border-radius: 4px; 
+    padding: 5px; 
+    width: 150px; 
+    
 }
 h1{
     color: #469396;
@@ -48,10 +68,14 @@ h2{
   }
 
   footer{
-    padding: 40px;
+    padding: 10px;
     background-color:black; 
     color: #469396;  
     text-align: center;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px 5px rgba(0.2,0.2,0.2,0.2);
+    padding-bottom: 15px;
+    margin-top: 1.5%;
     
 }
 
