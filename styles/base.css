@@ -123,6 +123,9 @@ h2{
     text-align: center;
     border-bottom: 1px solid rgb(2, 39, 43);
   }
+  ul li{
+    list-style-type: none;
+  }
 
   footer{
     padding: 10px;
