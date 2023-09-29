@@ -4,5 +4,5 @@ const navegacion = document.querySelectorAll(".navegacion");
 
 hambutton.addEventListener("click", () => {
   navegacion.classNavegacion.toggle("open");
-  hamButtonbutton.classNavegacion.toggle("open");
+  hambutton.classNavegacion.toggle("open");
 });
