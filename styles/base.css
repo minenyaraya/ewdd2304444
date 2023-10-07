@@ -102,6 +102,8 @@ img {
        
 }
 h1{
+    font-family: 'Crimson Pro', serif;
+    font-size: 48px;
     color: #003249;
     font-size: 2em;
     font-weight: lighter;
@@ -207,7 +209,11 @@ h3{
 }
 p{
     text-align: center;
+  
+
 }
+   
+
 
 .highlight {
     color: #20a04d;
